@@ -7,6 +7,9 @@ The nodes are properly monitored by connecting to [telemetry.polkadot.io] as the
 ![image](https://github.com/AnnaXJGe/chains/blob/master/test.png)
 
 
+Besides, I got throught the Substrate Collectables Workshop to learn about Sust and Parity Substrate.[Here is the link](https://github.com/AnnaXJGe/substratekitties)
+
+
 # Process
 
 1-install Substrate
