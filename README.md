@@ -14,7 +14,7 @@ The nodes are properly monitored by connecting to [telemetry.polkadot.io] as the
 2-Local nodes check with https://polkadot.js.org/apps
 (Local Node (127.0.0.1:9944))
 
-3-Create node Alice/Bob and Dave
+3-Create nodes Alice, Bob and Dave
 
 4-docker run --rm -it chevdor/polkadot
 
